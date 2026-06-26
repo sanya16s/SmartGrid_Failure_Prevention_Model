@@ -104,11 +104,11 @@ An end-to-end predictive maintenance proof of concept built on 10,000 industrial
 ### Limitations & Future Scope
 
 **Current limitations:**
-- Dataset is a benchmark dataset — real-world SCADA sensor data would produce stronger cluster separation and higher recall
-- No temporal/time-series modeling — seasonal load patterns and degradation trends not captured
-- Static threshold — would need periodic re-evaluation in production
+- Dataset is a benchmark dataset: real-world SCADA sensor data would produce stronger cluster separation and higher recall
+- No temporal/time-series modeling: seasonal load patterns and degradation trends not captured
+- Static threshold: would need periodic re-evaluation in production
 
-**Future improvements:**
+**Future improvements (That I'll be working on):**
 - LSTM or Prophet for time-series failure prediction
 - SHAP values for individual machine failure explanation
 - Real-time monitoring dashboard (Streamlit)
@@ -116,19 +116,6 @@ An end-to-end predictive maintenance proof of concept built on 10,000 industrial
 - Anomaly detection layer (Isolation Forest)
 
 ---
-
-## 🧰 Common Tech Stack
-
-```
-Languages:    Python
-ML / Stats:   Scikit-learn, Statsmodels, NumPy, Pandas
-Visualization: Matplotlib, Seaborn
-NLP:          TF-IDF, N-grams, Google Translate API
-Environment:  Google Colab, Jupyter Notebook
-```
-
----
-
 ---
 
 *⭐ If you find these projects useful or interesting, a star on the repo would mean a lot!*
