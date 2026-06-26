@@ -1,27 +1,11 @@
-# 📂 ML & Data Science Portfolio
-
-> **Electronics & Electrical Engineering (EEE) student** with a keen interest in Machine Learning and Data Science.
-> This repository contains end-to-end ML projects built from scratch, each covering the full pipeline from raw data to business insights.
-
----
-
-## 🗂️ Projects
-
-| # | Project | Domain | Key Techniques | Highlight |
-|---|---------|--------|----------------|-----------|
-| 01 | [Smart Grid Asset Management & Failure Prevention](#-project-02--smart-grid-asset-management--failure-prevention) | Industrial ML | Random Forest, K-Means, Threshold Tuning | 90.22% ROC-AUC, 73.5% recall |
-| 02 | 
-
-> ⚙️ More projects coming soon.
-
 ## ⚡ Project 01 — Smart Grid Failure Prevention Model
 
 **`Python` `Scikit-learn` `Random Forest` `K-Means` `Google Colab`**
 
 ### Overview
-An end-to-end predictive maintenance proof of concept built on 10,000 industrial sensor readings from electrical grid equipment. The system predicts equipment failures before they occur and segments healthy assets into prioritized maintenance tiers — shifting maintenance strategy from **reactive** (fix after failure) to **proactive** (prevent before failure).
+An end-to-end predictive maintenance proof of concept built on 10,000 industrial sensor readings from electrical grid equipment. The system predicts equipment failures before they occur and segments healthy assets into prioritized maintenance tiers, shifting maintenance strategy from **reactive** (fix after failure) to **proactive** (prevent before failure).
 
-> 💡 **Why this project?** As an EEE student, I wanted to apply ML to a domain I genuinely understand — transformer failures, thermal stress, and equipment degradation. This sits at the intersection of my engineering background and data science interest.
+> 💡 **Why this project?** As an EEE student, I wanted to apply ML to a domain I genuinely understand transformer failures, thermal stress, and equipment degradation. This sits at the intersection of my engineering background and data science interest.
 
 ---
 
